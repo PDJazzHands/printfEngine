@@ -1,0 +1,57 @@
+c:\users\45squ\documents\visual studio 2017\Projects\printfEngine\printfEngine\obj\Debug\printfEngine.csprojResolveAssemblyReference.cache
+c:\users\45squ\documents\visual studio 2017\Projects\printfEngine\printfEngine\obj\Debug\printfEngine.csproj.CoreCompileInputs.cache
+c:\users\45squ\documents\visual studio 2017\Projects\printfEngine\printfEngine\bin\DesktopGL\AnyCPU\Debug\MonoGame.Framework.dll.config
+c:\users\45squ\documents\visual studio 2017\Projects\printfEngine\printfEngine\bin\DesktopGL\AnyCPU\Debug\x86\SDL2.dll
+c:\users\45squ\documents\visual studio 2017\Projects\printfEngine\printfEngine\bin\DesktopGL\AnyCPU\Debug\x64\SDL2.dll
+c:\users\45squ\documents\visual studio 2017\Projects\printfEngine\printfEngine\bin\DesktopGL\AnyCPU\Debug\x86\soft_oal.dll
+c:\users\45squ\documents\visual studio 2017\Projects\printfEngine\printfEngine\bin\DesktopGL\AnyCPU\Debug\x64\soft_oal.dll
+c:\users\45squ\documents\visual studio 2017\Projects\printfEngine\printfEngine\bin\DesktopGL\AnyCPU\Debug\x86\libSDL2-2.0.so.0
+c:\users\45squ\documents\visual studio 2017\Projects\printfEngine\printfEngine\bin\DesktopGL\AnyCPU\Debug\x64\libSDL2-2.0.so.0
+c:\users\45squ\documents\visual studio 2017\Projects\printfEngine\printfEngine\bin\DesktopGL\AnyCPU\Debug\x86\libopenal.so.1
+c:\users\45squ\documents\visual studio 2017\Projects\printfEngine\printfEngine\bin\DesktopGL\AnyCPU\Debug\x64\libopenal.so.1
+c:\users\45squ\documents\visual studio 2017\Projects\printfEngine\printfEngine\bin\DesktopGL\AnyCPU\Debug\libSDL2-2.0.0.dylib
+c:\users\45squ\documents\visual studio 2017\Projects\printfEngine\printfEngine\bin\DesktopGL\AnyCPU\Debug\libopenal.1.dylib
+c:\users\45squ\documents\visual studio 2017\Projects\printfEngine\printfEngine\bin\DesktopGL\AnyCPU\Debug\printfEngine.exe
+c:\users\45squ\documents\visual studio 2017\Projects\printfEngine\printfEngine\bin\DesktopGL\AnyCPU\Debug\printfEngine.pdb
+c:\users\45squ\documents\visual studio 2017\Projects\printfEngine\printfEngine\bin\DesktopGL\AnyCPU\Debug\MonoGame.Framework.dll
+c:\users\45squ\documents\visual studio 2017\Projects\printfEngine\printfEngine\obj\Debug\printfEngine.exe
+c:\users\45squ\documents\visual studio 2017\Projects\printfEngine\printfEngine\obj\Debug\printfEngine.pdb
+c:\users\45squ\documents\visual studio 2017\Projects\printfEngine\printfEngine\bin\DesktopGL\AnyCPU\Debug\Content\FontSheets\Cheepicus_12x12.xnb
+C:\Users\45squ\Desktop\printfEngine\printfEngine\bin\DesktopGL\AnyCPU\Debug\x86\SDL2.dll
+C:\Users\45squ\Desktop\printfEngine\printfEngine\bin\DesktopGL\AnyCPU\Debug\x64\SDL2.dll
+C:\Users\45squ\Desktop\printfEngine\printfEngine\bin\DesktopGL\AnyCPU\Debug\x86\soft_oal.dll
+C:\Users\45squ\Desktop\printfEngine\printfEngine\bin\DesktopGL\AnyCPU\Debug\x64\soft_oal.dll
+C:\Users\45squ\Desktop\printfEngine\printfEngine\bin\DesktopGL\AnyCPU\Debug\x86\libSDL2-2.0.so.0
+C:\Users\45squ\Desktop\printfEngine\printfEngine\bin\DesktopGL\AnyCPU\Debug\x64\libSDL2-2.0.so.0
+C:\Users\45squ\Desktop\printfEngine\printfEngine\bin\DesktopGL\AnyCPU\Debug\x86\libopenal.so.1
+C:\Users\45squ\Desktop\printfEngine\printfEngine\bin\DesktopGL\AnyCPU\Debug\x64\libopenal.so.1
+C:\Users\45squ\Desktop\printfEngine\printfEngine\bin\DesktopGL\AnyCPU\Debug\libSDL2-2.0.0.dylib
+C:\Users\45squ\Desktop\printfEngine\printfEngine\bin\DesktopGL\AnyCPU\Debug\libopenal.1.dylib
+C:\Users\45squ\Desktop\printfEngine\printfEngine\bin\DesktopGL\AnyCPU\Debug\MonoGame.Framework.dll.config
+C:\Users\45squ\Desktop\printfEngine\printfEngine\bin\DesktopGL\AnyCPU\Debug\Content\FontSheets\Cheepicus_12x12.xnb
+C:\Users\45squ\Desktop\printfEngine\printfEngine\bin\DesktopGL\AnyCPU\Debug\printfEngine.exe
+C:\Users\45squ\Desktop\printfEngine\printfEngine\bin\DesktopGL\AnyCPU\Debug\printfEngine.pdb
+C:\Users\45squ\Desktop\printfEngine\printfEngine\bin\DesktopGL\AnyCPU\Debug\MonoGame.Framework.dll
+C:\Users\45squ\Desktop\printfEngine\printfEngine\obj\Debug\printfEngine.csprojResolveAssemblyReference.cache
+C:\Users\45squ\Desktop\printfEngine\printfEngine\obj\Debug\printfEngine.csproj.CoreCompileInputs.cache
+C:\Users\45squ\Desktop\printfEngine\printfEngine\obj\Debug\printfEngine.exe
+C:\Users\45squ\Desktop\printfEngine\printfEngine\obj\Debug\printfEngine.pdb
+E:\printfEngine\printfEngine\bin\DesktopGL\AnyCPU\Debug\x86\SDL2.dll
+E:\printfEngine\printfEngine\bin\DesktopGL\AnyCPU\Debug\x64\SDL2.dll
+E:\printfEngine\printfEngine\bin\DesktopGL\AnyCPU\Debug\x86\soft_oal.dll
+E:\printfEngine\printfEngine\bin\DesktopGL\AnyCPU\Debug\x64\soft_oal.dll
+E:\printfEngine\printfEngine\bin\DesktopGL\AnyCPU\Debug\x86\libSDL2-2.0.so.0
+E:\printfEngine\printfEngine\bin\DesktopGL\AnyCPU\Debug\x64\libSDL2-2.0.so.0
+E:\printfEngine\printfEngine\bin\DesktopGL\AnyCPU\Debug\x86\libopenal.so.1
+E:\printfEngine\printfEngine\bin\DesktopGL\AnyCPU\Debug\x64\libopenal.so.1
+E:\printfEngine\printfEngine\bin\DesktopGL\AnyCPU\Debug\libSDL2-2.0.0.dylib
+E:\printfEngine\printfEngine\bin\DesktopGL\AnyCPU\Debug\libopenal.1.dylib
+E:\printfEngine\printfEngine\bin\DesktopGL\AnyCPU\Debug\MonoGame.Framework.dll.config
+E:\printfEngine\printfEngine\bin\DesktopGL\AnyCPU\Debug\Content\FontSheets\Cheepicus_12x12.xnb
+E:\printfEngine\printfEngine\bin\DesktopGL\AnyCPU\Debug\printfEngine.exe
+E:\printfEngine\printfEngine\bin\DesktopGL\AnyCPU\Debug\printfEngine.pdb
+E:\printfEngine\printfEngine\bin\DesktopGL\AnyCPU\Debug\MonoGame.Framework.dll
+E:\printfEngine\printfEngine\obj\Debug\printfEngine.csprojResolveAssemblyReference.cache
+E:\printfEngine\printfEngine\obj\Debug\printfEngine.csproj.CoreCompileInputs.cache
+E:\printfEngine\printfEngine\obj\Debug\printfEngine.exe
+E:\printfEngine\printfEngine\obj\Debug\printfEngine.pdb
